@@ -8,7 +8,7 @@ image:
   repository: ghcr.io/sirlag/herocraft
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
-  tag: latest
+  tag: "2025.5.1"
 
 service:
   type: ClusterIP
