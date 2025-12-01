@@ -2,6 +2,15 @@ apiVersion: v1
 entries:
   herocraft:
   - apiVersion: v2
+    created: "2025-12-01T17:39:29.993587941Z"
+    description: A Helm chart for deploying herocraft backend
+    digest: 04419162a9f3fabca173f12a63ebcb8c9d37baf2247221fe308a77eee9fe0b4b
+    name: herocraft
+    type: application
+    urls:
+    - https://github.com/herocraftapp/helm-charts/releases/download/herocraft-0.1.30/herocraft-0.1.30.tgz
+    version: 0.1.30
+  - apiVersion: v2
     created: "2025-11-27T05:17:29.03389067Z"
     description: A Helm chart for deploying herocraft backend
     digest: 184cbab39c84784594879c9a0316b3094a6a919997e4424b2df987ef30d2a8ab
@@ -263,4 +272,4 @@ entries:
     urls:
     - https://github.com/herocraftapp/helm-charts/releases/download/herocraft-0.1.1/herocraft-0.1.1.tgz
     version: 0.1.1
-generated: "2025-11-27T05:17:29.034104909Z"
+generated: "2025-12-01T17:39:29.993945582Z"
